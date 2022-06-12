@@ -1,0 +1,55 @@
+Use These DE Project as Reference Only. 
+Thank you for all the hard work you guys putted in these Projects! 
+Know that it is recognized and greatly appreciated
+
+	C.E - WORK BASED SERVICES(sem 3)
+	C.E - OUTFIT ARCHIVE(sem 4)
+	C.E - OBJECT DETECTION(sem 5)
+	C.E - HELMET DETECTION(sem 6)
+SIDDHARTH GABU 		180170107030
+CHANDRARAJSINH GOHIL 	180170107033
+CHIRAG KAVA 		180170107046
+ADARSH KOSREKAR 	180170107048
+
+	C.E - Automatic sprinkler system
+Parth bharucha 		180170107004
+Anant doshi 		180170107028
+Shubham hirani 		180170107036
+Daxesh italiya 		180170107037
+
+	C.E - ALL ABOUT ORGANIZATION
+KHUSHNOOD SHAIKH	180170107110
+RUTVIK PATEL		180170107085
+RUSHI PATEL		180170107084
+
+	C.E - Automatic Time Table Generator
+Ghelani Kashyap   	180170107032
+Khokhar Sahil        	180170107047
+Kothari Tirthak      	180170107049
+Dudhat Krushit        	180170107029
+
+	E.C - Automation using GSM Module
+Kunal Ramchandani	180170111091
+Divyanshu Soni 		180170111108
+Romit Srivastav 	180170111110
+Ronak Tandon 		180170111113
+Dhruv Vats 		180170111121
+
+	E.C - Drunk driving detection
+Rajgor Daivik        	180170111089
+Vataliya Harsh         	180170111120
+Shah Jainam          	180170111100
+Sheikh Sadam          	180170111105
+Rathva Harsh          	180170111093
+
+	C.E - Expenses Tracker System
+Ajani Jyot		180170107001
+Asodariya Siddharth 	180170107003
+Gajjar Daksh 		180170107031
+Goyani Kevalkumar 	180170107034
+
+	C.E - Online Education System
+Joshi Prashant		180170107043	
+Jodhani Mayur		180170107042
+Lad Deep		180170107050
+Bhatiya Riya		180170107005

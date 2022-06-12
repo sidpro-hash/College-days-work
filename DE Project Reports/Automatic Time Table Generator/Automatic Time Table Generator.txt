@@ -1,0 +1,11 @@
+Automatic Time Table Generator
+Design Engineering-IIA(3150001) 
+B.E., Semester V
+
+Sr. No.                          Name                  Enrollment No.
+1                       Ghelani Kashyap                180170107032
+2                       Khokhar Sahil                  180170107047
+3                       Kothari Tirthak                180170107049
+4                       Dudhat Krushit                 180170107029
+Team ID:248736
+Prof  Kaushik K Rana                                
